@@ -1,0 +1,9 @@
+The file is a jupyter notebook file with the codes in snippets.
+
+The required libraries are:
+--bagpy
+--numpy
+--pandas
+--matplotlib.pyplot
+
+

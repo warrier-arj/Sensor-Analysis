@@ -1,0 +1,8 @@
+****The csv file has was compressed because my system could not extract it.
+
+The live scripts of the Allan Variance analysis of the 5 hour data has been included.
+Please run the files titled ' Angular_velocity_*.mlx' and 'Linear_acceleration_*.mlx' before running  'Allan_variance_plots.mlx' 
+
+The jupyter notebook for the analysis of the 5 minute bag is also included.
+Please note: the directory for the rosbag might have to be changed.
+The file named imu3.bag is the rosbag for 5 minute data.
